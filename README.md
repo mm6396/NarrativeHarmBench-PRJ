@@ -24,30 +24,17 @@ Unlike safety benchmarks centered mainly on explicit harmful requests or jailbre
 <p align="center"><i>Example event-category analysis included in this repository.</i></p>
 
 Benchmark at a Glance
+******************************************************************************
+Real-world events: 1,350
 
+Retained adversarial prompts: 4,991
 
+Narrative framing strategies: 9
 
+Evaluation dimensions: 10
 
-
-Real-world events
-
-1,350
-
-Retained adversarial prompts
-
-4,991
-
-Narrative framing strategies
-
-9
-
-Evaluation dimensions
-
-10
-
-Models evaluated in the paper
-
-5
+Models evaluated in the paper: 5
+****************************************************************************
 
 Adversarial Framing Strategies
 
@@ -87,15 +74,11 @@ Citation
 
 If you use NarrativeHarmBench, please cite:
 
-@article{alizade2026narrativeharmbench,
-  title  = {NarrativeHarmBench: Evaluating LLM Robustness to Adversarial Narrative Framing in Real-World Events},
-  author = {Alizade, Mehrnoush and Vadla, Krishna Sai Rohith and Maity, Suman Kalyan},
-  year   = {2026}
-}
+---
 
 Authors
 
-Mehrnoush Alizade · Krishna Sai Rohith Vadla · Suman Kalyan Maity
+Mehrnoush Alizade * Krishna Sai Rohith Vadla * Suman Kalyan Maity
 Missouri University of Science and Technology
 
 <p align="center">
