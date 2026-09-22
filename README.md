@@ -1,6 +1,4 @@
-NarrativeHarmBench
-
-<p align="center">
+<b>NarrativeHarmBench <b> : <p align="center">
   <b>Evaluating LLM Robustness to Adversarial Narrative Framing in Real-World Events</b>
 </p>
 
