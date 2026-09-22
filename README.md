@@ -101,9 +101,4 @@ This repository contains:
 
 If you use **NarrativeHarmBench**, please cite:
 
-```bibtex
-@article{alizade2026narrativeharmbench,
-  title  = {NarrativeHarmBench: Evaluating LLM Robustness to Adversarial Narrative Framing in Real-World Events},
-  author = {Alizade, Mehrnoush and Vadla, Krishna Sai Rohith and Maity, Suman Kalyan},
-  year   = {2026}
-}
+
