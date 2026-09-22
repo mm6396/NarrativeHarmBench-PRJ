@@ -1,4 +1,4 @@
-# NarrativeHarmBench Clean Dataset
+# NarrativeHarmBench Dataset
 
 This package is a cleaned and GitHub-ready organization of the benchmark data from the provided project archive.
 
